@@ -13,10 +13,10 @@ export default function HeroSection() {
                As a Full Stack Developer, I have the unique ability to manage both the front-end and back-end aspects of web applications.
                </p>
             </div>
-            <button className="btn btn-primary">Get In Touch</button>
+            <button class="btn btn-outline-primary">Get In Touch</button>
         </div>
         <div className="hero--section--img">
-            <img src="src/assets/Andile.jpg" alt="Andile"/>
+            <img src="src/Andile.jpg" alt="Andile" />
         </div>
     </section>
    );
